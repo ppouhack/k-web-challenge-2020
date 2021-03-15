@@ -104,11 +104,13 @@ Docker Container에서 다음의 명령어를 입력합니다.
 
 ## Result
 
-### suricata, barnyard2, Snorby, Moloch
+### suricata, barnyard2, Snorby
 
 ![alt text](https://raw.githubusercontent.com/ppouhack/k-web-challenge-2020/master/suricata.png)
 
 suricata에서 IPS 정책에 의해 탐지된 로그입니다.
+
+### Moloch
 
 ![alt text](https://raw.githubusercontent.com/ppouhack/k-web-challenge-2020/master/moloch.png)
 
